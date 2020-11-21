@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>319600231955-cp9gsvf8v5qh69147feqbj9o2ppd0v8s.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.319600231955-cp9gsvf8v5qh69147feqbj9o2ppd0v8s</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAsuK0IcZWxmV2c5wXPJRE-7kRrcnv8pzA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>319600231955</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Translation.The-Big-App</string>
+	<key>PROJECT_ID</key>
+	<string>the-big-app-6c36b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>the-big-app-6c36b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:319600231955:ios:74fccb98001ce70f33e1e6</string>
+	<key>DATABASE_URL</key>
+	<string>https://the-big-app-6c36b.firebaseio.com</string>
+</dict>
+</plist>
